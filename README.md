@@ -1,10 +1,11 @@
+
+## About project
+
 This is a computer vision project. in this project, I have trained an end-to-end deep learning model that would let a car drive by itself around the track in a driving simulator. It is a supervised regression problem between the car steering angles and the road images in real-time from the cameras of a car.
 
 Output :-
 
-
-
-##Real Time Prediction
+## Real Time Prediction
 
 
 
